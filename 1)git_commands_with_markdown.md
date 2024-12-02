@@ -1,5 +1,5 @@
 # Основные команды для работы с [**Git**](https://git-scm.com/)
-![Логотип Гит](https://ru.wikipedia.org/wiki/Git#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Git-logo.svg)
+![Логотип Гит](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s)
 
 [Настройка](#setup)  
 [Работа с локальным репозиторием](#title1)  
